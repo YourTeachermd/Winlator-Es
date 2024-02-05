@@ -1,6 +1,7 @@
 <p align="center">
-    <img src="logo.png" width="376" height="128" alt="https://cdn.discordapp.com/attachments/1120450661050499083/1204158914984280085/winlator_Es.png?ex=65d3b761&is=65c14261&hm=2087826540fd2b6e1b8f7a32ac18b9acddfa9cda27144c9e66b25d6d05680b74&" />
+    <img src="https://cdn.discordapp.com/attachments/1120450661050499083/1204158914984280085/winlator_Es.png?ex=65d3b761&is=65c14261&hm=2087826540fd2b6e1b8f7a32ac18b9acddfa9cda27144c9e66b25d6d05680b74" width="376" height="128" alt="Winlator Logo" />
 </p>
+
 
 # Winlator
 
