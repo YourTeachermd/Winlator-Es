@@ -15,7 +15,7 @@ Winlator es una aplicación para ejecutar aplicaciones de Windows (x86_64) con W
 
 ----
 
-[![Reproducir en Youtube](https://img.youtube.com/vi/8PKhmT7B3Xo/1.jpg)](https://www.youtube.com/watch?v=8PKhmT7B3Xo)
+[![Reproducir en Youtube](https://cdn.discordapp.com/attachments/1120450661050499083/1204176018454093924/Picsart_24-02-05_12-58-13-195.jpg?ex=65d3c74f&is=65c1524f&hm=40c3cb0989638fa09b4a33f159a484c96839fa644350f975541eadc1f0933728&)](https://www.youtube.com/watch?v=-D6Vok2J-Ek)
 [![Reproducir en Youtube](https://img.youtube.com/vi/9E4wnKf2OsI/2.jpg)](https://www.youtube.com/watch?v=9E4wnKf2OsI)
 [![Reproducir en Youtube](https://img.youtube.com/vi/czEn4uT3Ja8/2.jpg)](https://www.youtube.com/watch?v=czEn4uT3Ja8)
 [![Reproducir en Youtube](https://img.youtube.com/vi/eD36nxfT_Z0/2.jpg)](https://www.youtube.com/watch?v=eD36nxfT_Z0)
